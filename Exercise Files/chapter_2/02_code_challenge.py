@@ -1,5 +1,3 @@
-# Python code​​​​​​‌‌‌​​​​‌‌‌‌​​​‌​​‌‌​‌‌​​​ below
-
 import pandas as pd
 
 def analyze_penguins(df):

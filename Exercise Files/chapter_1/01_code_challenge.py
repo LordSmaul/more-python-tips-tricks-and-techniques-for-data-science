@@ -1,4 +1,3 @@
-# Python code​​​​​​‌‌‌​​​​‌​​‌​​‌​​​‌​‌‌‌‌​​ below
 import io
 import sys
 
